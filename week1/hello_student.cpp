@@ -14,7 +14,7 @@ int main() {
     cout << "Please enter your favorite food: ";
     cin >> answer;
 
-    cout << name << "! Wow, I love " << answer << " too (sometimes...)" << endl;
+    cout << name << "! Wow, I love " << answer << " too!" << endl;
 
     return 0;
 }
