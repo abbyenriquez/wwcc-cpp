@@ -12,20 +12,17 @@ The Lost Treasure of Pine Woods is a text-based adventure game where the player 
 
 ## Files Included
 
-* story_game.cpp
-* story_intro.txt
+* final-story_game.cpp
+* story.txt
 * README.md
 
-The game will also create:
-
-* game_summary.txt
 
 ---
 
 ## How to Compile
 
 ```bash
-g++ -std=c++17 -Wall story_game.cpp -o story_game
+g++ final-story_game.cpp -o game
 ```
 
 ## How to Run
@@ -33,13 +30,13 @@ g++ -std=c++17 -Wall story_game.cpp -o story_game
 ### Mac/Linux
 
 ```bash
-./story_game
+./game
 ```
 
 ### Windows
 
 ```bash
-story_game.exe
+game.exe
 ```
 
 ---
