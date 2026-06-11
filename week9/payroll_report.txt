@@ -1,0 +1,20 @@
+
+=== Engineering ===
+David Park - $2090.00
+Alice Chen - $1995.00
+Subtotal: $4085.00
+
+=== Sales ===
+Frank Torres - $2103.75
+Bob Martinez - $1064.00
+Subtotal: $3167.75
+
+=== HR ===
+Grace Kim - $1122.25
+Carol Singh - $1153.75
+Subtotal: $2276.00
+
+=== Operations ===
+Henry Okafor - $1812.50
+Emma Wilson - $870.00
+Subtotal: $2682.50

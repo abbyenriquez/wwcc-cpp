@@ -1,0 +1,11 @@
+Name: Abby
+Map1: 1
+Map2: 1
+Shovel: 1
+Puzzle Solved: 1
+Result: WIN
+
+Inventory:
+- Map Piece 1
+- Shovel
+- Map Piece 2
